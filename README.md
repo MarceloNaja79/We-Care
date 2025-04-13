@@ -9,3 +9,5 @@
 <figuri/>
 
 <h2 italic>Este Projeto Tambem serviu para eu Aprimorar e fixar a Responsividade</h2>
+
+<h2> fique avontade para acessar a pagina<a Href="https://projeto-we-care-marcelonaja.netlify.app/">Clique aqui</h2>
